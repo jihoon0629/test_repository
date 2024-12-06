@@ -1,4 +1,4 @@
-import CustomImageProcessor
+from image_filter.custom_image_processor import CustomImageProcessor
 
 input_file = "testimage.jpg"
 bmp_file = "testimage_to_24bmp.bmp"
